@@ -14,28 +14,5 @@ EventPulse leverages advanced Generative AI and real-time data streams:
 *   **Maritime AIS (VesselFinder)**: Real-time monitoring of international shipping lanes.
 *   **Market Volatility (Finnhub)**: Correlation of market indices against environmental risks.
 
-## 🚀 Deployment to GitHub
-
-To download this project and take it live, follow these steps to push your project to your GitHub repository (`sajeer0775`):
-
-### 1. Create a Repository on GitHub
-*   Go to [github.com/new](https://github.com/new).
-*   **Owner**: `sajeer0775`
-*   **Repository name**: `event-pulse`
-*   **Visibility**: Public
-*   **CRITICAL**: Ensure **Add a README file**, **Add .gitignore**, and **Choose a license** are all set to **OFF**.
-
-### 2. Initialize and Push via Terminal
-Open your terminal in the project folder and run:
-
-```bash
-git init
-git add .
-git commit -m "Initial mission deployment"
-git branch -M main
-git remote add origin https://github.com/sajeer0775/event-pulse.git
-git push -u origin main
-```
-
 ## ⚖️ License
 This project is released under the **MIT License**.
